@@ -1,6 +1,7 @@
 {
     "require": {
         "pear/http_request2": "^2.5",
-        "repejota/nats": "dev-master"
+        "repejota/nats": "dev-master",
+        "byrnedo/php-nats-streaming:^0.2.4"
     }
 }
